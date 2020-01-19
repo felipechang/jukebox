@@ -1,0 +1,12 @@
+applescript==2018.11.19
+Click==7.0
+decorator==4.4.0
+detect==2018.11.19
+only==2018.11.20
+pafy==0.5.4
+psutil==5.6.1
+public==2018.11.20
+python-vlc==3.0.6108
+runcmd==2018.12.14
+temp==2018.11.20
+youtube-dl==2019.3.9
